@@ -7,6 +7,7 @@
 
     sudo apt-get update
     cd /home
+    apt install git
     git clone https://github.com/DRM-Scripts/o11-OTT-Streamer
     cd o11-OTT-Streamer
     chmod 777 ./o11_streamer
